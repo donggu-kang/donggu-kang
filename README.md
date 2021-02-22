@@ -26,4 +26,14 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jitsi-97979A?style=flat-square&logo=Jitsi&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=Fortinet&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google-Analytics&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Alibaba Cloud-FF6A00?style=flat-square&logo=Alibaba-Cloud&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
+
 </p>
